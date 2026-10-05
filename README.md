@@ -1,4 +1,4 @@
-# STSP and MS-STSP: compact Python code
+# STSP and MS-STSP
 
 This directory contains the Python implementation of STSP and MS-STSP and
 the scripts for their numerical results in the final manuscript. All fits
